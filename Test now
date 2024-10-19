@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jutties Academic - Science Challenges & Solutions</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Jutties Academic</h1>
+        <p>Your go-to blog for Science Challenges and Solutions</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section class="introduction">
+            <h2>Science Challenges for Students</h2>
+            <p>At Jutties Academic, we explore common challenges faced by students in science education and offer practical solutions. From project-based learning to real-world problem solving, our blog is designed to inspire and guide young learners.</p>
+        </section>
+
+        <section class="blog-posts">
+            <h2>Latest Blog Posts</h2>
+            <article class="post">
+                <h3>Engaging STEM Projects for Middle School Students</h3>
+                <img src="images/stem-project.jpg" alt="STEM Project Image">
+                <p>Discover hands-on STEM projects like water filtration, coding challenges, and bridge engineering that develop critical thinking and creativity in students.</p>
+                <a href="#">Read more...</a>
+            </article>
+
+            <article class="post">
+                <h3>Problem-Solving Through Science</h3>
+                <img src="images/problem-solving.jpg" alt="Problem Solving">
+                <p>Learn how students can solve real-world problems by immersing themselves in projects that challenge their creativity and technical skills.</p>
+                <a href="#">Read more...</a>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Jutties Academic. All rights reserved.</p>
+    </footer>
+
+    <script src="scripts/script.js"></script>
+</body>
+</html>
